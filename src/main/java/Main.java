@@ -9,6 +9,7 @@ public class Main {
         Car car4 = new Car("yellow", "Renault", 4);
 		Car car5 = new Car("orange", "Smart", 4);
 
+
         //An dieser Stelle befindet sich nun ein Array
         //Dieses Array wird mit einem Sortieralgorithmus sortiert
         //Optimaler Code Yippie
